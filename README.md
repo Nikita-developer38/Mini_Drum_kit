@@ -17,7 +17,7 @@ A live demo of the project can be found [https://mini-drum-kit-js.netlify.app/](
 
 Watch the demo of the mini drum kit in action:
 
-[![Mini Drum Kit Demo]](./demo/mini-drum-kit.mp3)
+[![Mini Drum Kit Demo]](./demo/mini_drum_kit.mp4)
 
 ## Technologies Used
 
