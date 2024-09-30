@@ -10,7 +10,7 @@ A simple and interactive drum kit website built using JavaScript, HTML, and CSS.
 
 ## Demo
 
-A live demo of the project can be found [https://mini-drum-kit-js.netlify.app/](#)
+A live demo of the project can be found [https://mini-drum-kit-js.netlify.app/](https://mini-drum-kit-js.netlify.app/)
 
 ## Technologies Used
 
